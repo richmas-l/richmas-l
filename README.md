@@ -11,7 +11,8 @@
 - <b>SIEM Tools</b>
 
 - <b>Python</b>
-  - Simple Port Scanner "https://github.com/richmas-l/Simple-Port-Scanner.git"
+  - [Simple Port Scanner](https://github.com/richmas-l/Simple-Port-Scanner/tree/main)
+  - Simple Port Scanner
   - Network Tracking Using Wireshark & google maps
   - Keylogger
  
