@@ -2,11 +2,9 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
--  <b>Active directory home lab<b>
+- <b>Active directory home lab<b>
 
 - <b>Vulnerability Management lab</b>
-
-- <b>PowerShell</b>
 
 - <b>SIEM Tools</b>
 
@@ -15,9 +13,12 @@
   - [Visual Network Tracker](https://github.com/richmas-l/Visual-Network-Tracker/tree/main)
   - [Anonymous FTP Scanner](https://github.com/richmas-l/Anonymous-FTP-Scanner)
  
-<h2> Certifications </h2>
-  - Google Cybersecurity
-  - 
+<h2>Certifications</h2>
+
+- <b>Google Cybersecurity Certificate<b>
+- <b>Google IT Support</b>
+- <b>CompTia Security+ (In progress)<b>
+- <b>eJP2 Junior Pentester (In progress)</b>
   
 <!--
   <h2>📺YouTube Videos</h2>
