@@ -12,7 +12,7 @@
 
 - <b>Python</b>
   - [Simple Port Scanner](https://github.com/richmas-l/Simple-Port-Scanner/tree/main)
-  - Visual Network Tracker(https://github.com/richmas-l/Visual-Network-Tracker/tree/main)
+  - [Visual Network Tracker](https://github.com/richmas-l/Visual-Network-Tracker/tree/main)
   - Keylogger
  
 <h2> Certifications </h2>
