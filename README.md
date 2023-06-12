@@ -11,7 +11,7 @@
 
 - [<b>Active directory home lab<b>](https://github.com/richmas-l/Active-Directory-Lab-)
 
-- <b>Vulnerability Management lab</b>
+- Vulnerability Management lab</b>
 
 - <b>SIEM Tools</b>
 
