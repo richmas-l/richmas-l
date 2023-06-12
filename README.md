@@ -24,8 +24,13 @@
 
 - <b>Google Cybersecurity Certificate<b>
 - <b>Google IT Support</b>
+- <b>INFOSEC Python for Cybersecurity</b>
+- <b>(ISC)2  Systems Security Certified Practitioner (SSCP)</b>
+- <b>IBM Cyber Threat Intelligence</b>
+- <b>IBM Penetration Testing, Incident Response and Forensics</b>
+- <b>Amazon Cloud Solutions Architect </b>
 - <b>CompTia Security+ (In progress)<b>
-- <b>eJP2 Junior Pentester (In progress)</b>
+- <b>OSCP (In progress)</b>
   
 <!--
   <h2>📺YouTube Videos</h2>
