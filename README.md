@@ -9,13 +9,8 @@
 
 <h3>👨‍💻 Cybersecurity Projects:</h2>
 
-- [<b>Active directory home lab<b>](https://github.com/richmas-l/Active-Directory-Lab-)
-
-- Vulnerability Management lab</b>
-
-- <b>SIEM Tools</b>
-
-- <b>Python</b>
+   - [<b>Active directory home lab<b>](https://github.com/richmas-l/Active-Directory-Lab-)</br>
+- <b>Python Projects</b>
   - [Simple Port Scanner](https://github.com/richmas-l/Simple-Port-Scanner/tree/main)
   - [Visual Network Tracker](https://github.com/richmas-l/Visual-Network-Tracker/tree/main)
   - [Anonymous FTP Scanner](https://github.com/richmas-l/Anonymous-FTP-Scanner)
