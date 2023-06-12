@@ -1,4 +1,4 @@
-<h2>Hi, I'm Richard! <br/><a href="https://github.com/richmas-l">IT Enthusiast</a>, <a href="https://www.linkedin.com/in/richard-l-masokameng-62a218234/)/">Potential Cybersecurity Professional</a><b>
+<h2>Hi, I'm Richard! <br/><a href="https://github.com/richmas-l"<a href="https://www.linkedin.com/in/richard-l-masokameng-62a218234/)/">Potential Cybersecurity Professional</a><b>
   
  <h5>This is account is a show case of my journey to being a highly skilled cybersec professional.<br>
    <br>
