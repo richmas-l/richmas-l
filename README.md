@@ -1,4 +1,4 @@
-<h2>Hi, I'm Richard! <br/><a href="https://github.com/richmas-l"<a href="https://www.linkedin.com/in/richard-l-masokameng-62a218234/)/">Potential Cybersecurity Professional</a><b>
+<h2>:wave:Hi, I'm Richard! <br/><a href="https://github.com/richmas-l"<a href="https://www.linkedin.com/in/richard-l-masokameng-62a218234/)/">Potential Cybersecurity Professional</a><b>
   
  <h5>This is account is a show case of my journey to being a highly skilled cybersec professional.<br>
    <br>
@@ -16,7 +16,7 @@
   - [Visual Network Tracker](https://github.com/richmas-l/Visual-Network-Tracker/tree/main)
   - [Anonymous FTP Scanner](https://github.com/richmas-l/Anonymous-FTP-Scanner)
  
-<h3>Certifications</h2>
+<h3>:mortar_board:Certifications</h2>
 
 - <b>Google Cybersecurity Certificate<b>
 - <b>Google IT Support</b>
