@@ -3,9 +3,9 @@
  <h5>This is account is a show case of my journey to being a highly skilled cybersec professional.<br>
    <br>
  
-- <b>:memo:I'm currently working on completeing my CompTia Security+ & OSCP certificate.</br>
-- <b>:computer:I'm learning Python for Cybersec and doing some projects</br>
-- <b>:mag_right:I'm sharpening my pentesting skills on Hack The Box</br>
+- :memo:I'm currently working on completeing my CompTia Security+ & OSCP certificate.</br>
+- :computer:I'm learning Python for Cybersec and doing some projects</br>
+- :mag_right:I'm sharpening my pentesting skills on Hack The Box</br>
 
 <h3>👨‍💻 Cybersecurity Projects:</h2>
 
